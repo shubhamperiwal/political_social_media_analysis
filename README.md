@@ -1,5 +1,5 @@
 # Political Social Media Analysis
-In this repository, I'll try to compare Trump, Obama, and Hillary's tweets leading up to the election to come up with meaningful insights
+In this repository, I'll try to compare the tweets of Donald Trump, Barack Obama, and Hillary Clinton's tweets leading up to election 2016 to come up with meaningful insights 
 
 ## EDA features
 1. Analysis of number of tweets
