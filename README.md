@@ -8,7 +8,8 @@ In this repository, I'll try to compare Trump, Obama, and Hillary's tweets leadi
 4. Sentiment Analysis of the tweets
 5. Topic modelling to see what they're talking about
 
-### Possible enhancements
+
+## Possible enhancements
 1. Wordcloud in the shape of the speaker
 2. Use regex to remove URLs from the tweets
 3. Time series X sentiment analysis of the tweets
